@@ -25,7 +25,7 @@ kevin-cookie-dashboard/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/kevin-cookie-dashboard.git
-```
+   ```
 
 2. **Open the Dashboard**:
 
@@ -77,7 +77,8 @@ The dashboard offers several graphs and charts to make data analysis easy:
 
 Here’s a sneak peek of the dashboard:
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
+<img width="1352" height="674" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/086bf2da-263f-4be9-a36b-16973abd4f66" />
+
 
 **Note**: The actual dashboard is interactive and offers real-time updates as you filter by different parameters.
 
